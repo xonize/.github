@@ -1,4 +1,4 @@
-![Full Logo](actualCD-removebg-preview.png)
+![Full Logo](profile/actualCD-removebg-preview.png)
 # We are Xonize!
 
 We aim to change the world!
